@@ -1,0 +1,2 @@
+# MTNadeko
+Type `.help`
